@@ -1,0 +1,304 @@
+{
+  "Corporate Accounting": [
+    {
+      "question": "Which of the following is NOT a statutory book of a company?",
+      "options": ["Register of Members", "Minutes Book", "Cash Book", "Register of Charges"],
+      "correctAnswer": 2,
+      "explanation": "Cash Book is an accounting record, not a statutory register required under the Companies Act."
+    },
+    {
+      "question": "Which type of share carries voting rights?",
+      "options": ["Preference Shares", "Equity Shares", "Debentures", "Bonus Shares"],
+      "correctAnswer": 1,
+      "explanation": "Equity shareholders enjoy voting rights, unlike preference shareholders."
+    },
+    {
+      "question": "When shares are issued at a price higher than face value, it is called:",
+      "options": ["Issue at Discount", "Issue at Par", "Issue at Premium", "Right Issue"],
+      "correctAnswer": 2,
+      "explanation": "Shares issued above face value are said to be issued at a premium."
+    },
+    {
+      "question": "Underwriting of shares means:",
+      "options": ["Guaranteeing minimum subscription", "Issuing shares to promoters", "Offering shares at discount", "Issuing shares privately"],
+      "correctAnswer": 0,
+      "explanation": "Underwriting is a guarantee given by underwriters to purchase the unsold shares if not subscribed by public."
+    },
+    {
+      "question": "Bonus shares are issued out of:",
+      "options": ["Capital Reserve", "Securities Premium and Free Reserves", "Debenture Redemption Reserve", "Share Forfeiture Account"],
+      "correctAnswer": 1,
+      "explanation": "Bonus shares can be issued from securities premium, general reserve, or profit and loss balance."
+    },
+    {
+      "question": "Right issue of shares is offered to:",
+      "options": ["New investors", "Existing shareholders", "Debenture holders", "Promoters only"],
+      "correctAnswer": 1,
+      "explanation": "Right issue means offering shares to existing shareholders in proportion to their holdings."
+    },
+    {
+      "question": "Buy-back of shares is permitted when:",
+      "options": ["Company has sufficient authorized capital", "Company is listed on stock exchange", "Company has free reserves or securities premium", "Company issues preference shares"],
+      "correctAnswer": 2,
+      "explanation": "Buy-back can be done out of free reserves, securities premium, or proceeds of a fresh issue."
+    },
+    {
+      "question": "Which of the following is an example of cumulative preference shares?",
+      "options": ["Unpaid dividends accumulate and are paid in future", "Dividend is paid only in profitable years", "No fixed dividend", "Shareholders get voting rights always"],
+      "correctAnswer": 0,
+      "explanation": "Cumulative preference shares allow unpaid dividends to accumulate until paid."
+    },
+    {
+      "question": "If a company issues 10,000 shares of ₹10 each at a premium of ₹2, the securities premium account will show:",
+      "options": ["₹1,00,000", "₹20,000", "₹1,20,000", "₹10,000"],
+      "correctAnswer": 1,
+      "explanation": "Premium per share = ₹2 × 10,000 = ₹20,000 credited to Securities Premium A/c."
+    },
+    {
+      "question": "Which document contains rules and regulations for internal management of a company?",
+      "options": ["Prospectus", "Articles of Association", "Memorandum of Association", "Share Certificate"],
+      "correctAnswer": 1,
+      "explanation": "Articles of Association govern internal management of the company."
+    },
+    {
+      "question": "Debentures represent:",
+      "options": ["Ownership of company", "Borrowed funds", "Equity capital", "Reserves of company"],
+      "correctAnswer": 1,
+      "explanation": "Debentures are a form of borrowed capital, representing debt of the company."
+    },
+    {
+      "question": "Debentures can be redeemed:",
+      "options": ["Only at premium", "Only at par", "At par, premium, or discount (if allowed)", "Never"],
+      "correctAnswer": 2,
+      "explanation": "Debentures can be redeemed at par, premium, or discount depending on terms of issue."
+    },
+    {
+      "question": "Debenture Redemption Reserve (DRR) is created out of:",
+      "options": ["Share Capital", "Securities Premium", "Profits of the Company", "Debenture Proceeds"],
+      "correctAnswer": 2,
+      "explanation": "DRR is created out of profits to safeguard debenture holders at redemption."
+    },
+    {
+      "question": "If a company purchases its own debentures from the open market, it is called:",
+      "options": ["Redemption by conversion", "Redemption by purchase", "Redemption by draw of lots", "Redemption by reserve"],
+      "correctAnswer": 1,
+      "explanation": "Buying debentures from the open market for cancellation is redemption by purchase."
+    },
+    {
+      "question": "Conversion of debentures into shares is:",
+      "options": ["Redemption without cash outflow", "Redemption with premium payment", "Redemption through DRR", "Not allowed in company law"],
+      "correctAnswer": 0,
+      "explanation": "When debentures are converted into equity/preference shares, no cash outflow occurs."
+    },
+    {
+      "question": "Debenture Redemption Fund is also known as:",
+      "options": ["Sinking Fund", "General Reserve", "Capital Redemption Reserve", "Profit and Loss A/c"],
+      "correctAnswer": 0,
+      "explanation": "Debenture Redemption Fund is popularly known as Sinking Fund."
+    },
+    {
+      "question": "In case of redemption by draw of lots, which debentures are selected?",
+      "options": ["Debentures with highest face value", "Debentures held by directors", "Debentures chosen randomly", "Debentures issued first"],
+      "correctAnswer": 2,
+      "explanation": "Debentures to be redeemed are selected randomly by draw of lots."
+    },
+    {
+      "question": "If debentures of ₹1,00,000 are redeemed at 5% premium, the premium on redemption will be:",
+      "options": ["₹5,000", "₹50,000", "₹500", "₹1,05,000"],
+      "correctAnswer": 0,
+      "explanation": "Premium = 5% of ₹1,00,000 = ₹5,000."
+    },
+    {
+      "question": "Interest on debentures is treated as:",
+      "options": ["Appropriation of Profit", "Charge against Profit", "Dividend", "Capital expenditure"],
+      "correctAnswer": 1,
+      "explanation": "Interest on debentures is a fixed expense and charge against profits, not an appropriation."
+    },
+    {
+      "question": "When debentures are redeemed out of capital:",
+      "options": ["No reserve is created", "General Reserve is reduced", "DRR is increased", "Share capital is reduced"],
+      "correctAnswer": 0,
+      "explanation": "Redemption out of capital means company does not create a specific reserve for redemption."
+    },
+    {
+      "question": "Property, Plant and Equipment (PPE) are classified as:",
+      "options": ["Current Assets", "Intangible Assets", "Non-current Tangible Assets", "Investments"],
+      "correctAnswer": 2,
+      "explanation": "PPE are non-current tangible assets held for use in production or for administrative purposes."
+    },
+    {
+      "question": "Which of the following is NOT included in the cost of PPE?",
+      "options": ["Purchase price", "Installation cost", "Administrative overheads unrelated to construction", "Import duties"],
+      "correctAnswer": 2,
+      "explanation": "Only directly attributable costs are included; unrelated administrative expenses are excluded."
+    },
+    {
+      "question": "Depreciation on PPE is:",
+      "options": ["Optional", "Systematic allocation of depreciable amount", "Random charge on asset value", "Always based on tax rules"],
+      "correctAnswer": 1,
+      "explanation": "Depreciation is systematic allocation of depreciable amount over the asset's useful life."
+    },
+    {
+      "question": "Which accounting standard/Ind AS deals with PPE?",
+      "options": ["AS 2 / Ind AS 2", "AS 6 / Ind AS 16", "AS 10 / Ind AS 16", "AS 13 / Ind AS 38"],
+      "correctAnswer": 2,
+      "explanation": "AS 10 (Revised) and Ind AS 16 deal with accounting for PPE."
+    },
+    {
+      "question": "The residual value of PPE refers to:",
+      "options": ["Original purchase price", "Estimated scrap value at end of life", "Revaluation surplus", "Carrying amount"],
+      "correctAnswer": 1,
+      "explanation": "Residual value is the estimated realizable value of an asset at the end of its useful life."
+    },
+    {
+      "question": "When PPE is revalued upward, the increase is credited to:",
+      "options": ["Profit and Loss A/c", "General Reserve", "Revaluation Reserve", "Capital Redemption Reserve"],
+      "correctAnswer": 2,
+      "explanation": "Revaluation surplus is transferred to Revaluation Reserve in equity."
+    },
+    {
+      "question": "Capitalization of borrowing cost in PPE is permitted when:",
+      "options": ["Asset is ready for use", "Asset is a qualifying asset under construction", "Company decides voluntarily", "Only for small assets"],
+      "correctAnswer": 1,
+      "explanation": "Borrowing costs are capitalized only for qualifying assets under construction until ready for use."
+    },
+    {
+      "question": "Carrying amount of PPE is:",
+      "options": ["Cost + Depreciation", "Cost – Accumulated Depreciation and Impairment", "Revaluation Reserve", "Market Value"],
+      "correctAnswer": 1,
+      "explanation": "Carrying amount = Historical/adjusted cost – accumulated depreciation – impairment losses."
+    },
+    {
+      "question": "An asset held for sale is classified under:",
+      "options": ["Current Assets", "Non-current Assets", "Intangible Assets", "Investments"],
+      "correctAnswer": 0,
+      "explanation": "If PPE is held for sale, it is classified as current asset as per Ind AS 105."
+    },
+    {
+      "question": "Which of the following methods is NOT an accepted depreciation method under AS 10?",
+      "options": ["Straight Line Method", "Written Down Value Method", "Units of Production Method", "First In First Out Method"],
+      "correctAnswer": 3,
+      "explanation": "FIFO is an inventory valuation method, not a depreciation method."
+    },
+    {
+      "question": "Inventory is classified as:",
+      "options": ["Non-current asset", "Current asset", "Intangible asset", "Investment"],
+      "correctAnswer": 1,
+      "explanation": "Inventories are current assets as they are expected to be sold or used within one year."
+    },
+    {
+      "question": "Which accounting standard deals with valuation of inventories?",
+      "options": ["AS 2 / Ind AS 2", "AS 6 / Ind AS 16", "AS 10 / Ind AS 10", "AS 13 / Ind AS 38"],
+      "correctAnswer": 0,
+      "explanation": "AS 2 (Valuation of Inventories) / Ind AS 2 prescribes principles for inventory valuation."
+    },
+    {
+      "question": "Inventories should be valued at:",
+      "options": ["Market Price", "Cost or Net Realizable Value, whichever is lower", "Replacement Cost", "Selling Price"],
+      "correctAnswer": 1,
+      "explanation": "As per AS 2, inventories are valued at cost or NRV, whichever is lower."
+    },
+    {
+      "question": "Net Realizable Value (NRV) means:",
+      "options": ["Market value less cost to sell", "Original purchase price", "Selling price plus margin", "Book value"],
+      "correctAnswer": 0,
+      "explanation": "NRV is the estimated selling price in ordinary course of business less cost of completion and selling costs."
+    },
+    {
+      "question": "Which of the following is included in cost of inventories?",
+      "options": ["Administrative overheads not related to production", "Selling expenses", "Storage cost for finished goods", "Cost of conversion"],
+      "correctAnswer": 3,
+      "explanation": "Cost of inventories includes cost of purchase, conversion, and other costs necessary to bring them to present location and condition."
+    },
+    {
+      "question": "Abnormal loss of material during production is treated as:",
+      "options": ["Part of inventory cost", "Direct expense capitalized", "Charged to Profit and Loss A/c", "Added to overheads"],
+      "correctAnswer": 2,
+      "explanation": "Abnormal loss is excluded from inventory cost and charged to Profit and Loss A/c."
+    },
+    {
+      "question": "Which of the following methods of inventory valuation is NOT permitted under AS 2?",
+      "options": ["FIFO", "Weighted Average", "LIFO", "Standard Cost Method (under certain conditions)"],
+      "correctAnswer": 2,
+      "explanation": "AS 2 does not allow LIFO method of inventory valuation."
+    },
+    {
+      "question": "If opening stock = ₹20,000, purchases = ₹80,000, closing stock = ₹30,000, then cost of goods sold is:",
+      "options": ["₹70,000", "₹1,00,000", "₹90,000", "₹50,000"],
+      "correctAnswer": 0,
+      "explanation": "COGS = Opening stock + Purchases – Closing stock = 20,000 + 80,000 – 30,000 = ₹70,000."
+    },
+    {
+      "question": "Inventories include:",
+      "options": ["Raw materials, Work-in-progress, Finished goods", "Machinery and Tools", "Buildings", "Cash equivalents"],
+      "correctAnswer": 0,
+      "explanation": "Inventories consist of raw materials, WIP, and finished goods held for sale."
+    },
+    {
+      "question": "Inventory turnover ratio is calculated as:",
+      "options": ["COGS / Average Inventory", "Sales / Average Inventory", "Closing Stock / COGS", "Opening Stock / Purchases"],
+      "correctAnswer": 0,
+      "explanation": "Inventory turnover ratio = Cost of Goods Sold ÷ Average Inventory."
+    },
+    {
+      "question": "Which account is created when shares are issued at a premium?",
+      "options": ["Share Capital A/c", "Securities Premium A/c", "General Reserve A/c", "Capital Redemption Reserve A/c"],
+      "correctAnswer": 1,
+      "explanation": "Amount received over and above face value is transferred to Securities Premium Account."
+    },
+    {
+      "question": "Calls in arrears represent:",
+      "options": ["Excess money paid by shareholders", "Unpaid amount on shares called up", "Forfeited shares", "Bonus issue"],
+      "correctAnswer": 1,
+      "explanation": "Calls in arrears are the unpaid amount of share capital called up but not received."
+    },
+    {
+      "question": "When debentures are issued at par and redeemable at premium, the premium on redemption is:",
+      "options": ["Debited to Securities Premium A/c", "Debited to Profit and Loss A/c or adjusted against Securities Premium", "Credited to General Reserve", "Not recorded"],
+      "correctAnswer": 1,
+      "explanation": "Premium on redemption is a liability and debited to P&L or adjusted against Securities Premium balance."
+    },
+    {
+      "question": "Which of the following is NOT part of cost of PPE?",
+      "options": ["Delivery and handling charges", "Cost of site preparation", "Interest on loans after asset is ready to use", "Professional fees directly attributable to construction"],
+      "correctAnswer": 2,
+      "explanation": "Borrowing costs incurred after the asset is ready to use are not capitalized."
+    },
+    {
+      "question": "Which method of depreciation results in higher depreciation in earlier years?",
+      "options": ["Straight Line Method", "Written Down Value Method", "Units of Production Method", "Revaluation Method"],
+      "correctAnswer": 1,
+      "explanation": "Under WDV, depreciation is charged on reducing balance, leading to higher depreciation initially."
+    },
+    {
+      "question": "If cost of inventory = ₹50,000 and NRV = ₹48,000, the inventory should be valued at:",
+      "options": ["₹50,000", "₹48,000", "₹49,000", "₹52,000"],
+      "correctAnswer": 1,
+      "explanation": "Inventories are valued at cost or NRV whichever is lower, hence ₹48,000."
+    },
+    {
+      "question": "When a company issues right shares, existing shareholders have:",
+      "options": ["No priority", "Right to subscribe in proportion to their holding", "Right to vote additionally", "Right to receive bonus shares"],
+      "correctAnswer": 1,
+      "explanation": "Right shares are offered to existing shareholders in proportion to their holdings."
+    },
+    {
+      "question": "Sinking fund for debenture redemption is shown under:",
+      "options": ["Share Capital", "Reserves and Surplus", "Debentures", "Fixed Assets"],
+      "correctAnswer": 1,
+      "explanation": "Sinking fund or Debenture Redemption Reserve is a part of Reserves & Surplus."
+    },
+    {
+      "question": "If depreciation charged = ₹15,000 and opening balance of PPE = ₹1,00,000, closing balance = ₹90,000, then additional asset purchased is:",
+      "options": ["₹5,000", "₹25,000", "₹15,000", "₹10,000"],
+      "correctAnswer": 1,
+      "explanation": "Closing PPE = Opening PPE + Purchases – Depreciation → 90,000 = 1,00,000 + Purchases – 15,000 → Purchases = ₹25,000."
+    },
+    {
+      "question": "Inventory at the end of accounting period is shown in Balance Sheet under:",
+      "options": ["Non-current assets", "Current assets", "Other expenses", "Reserves and Surplus"],
+      "correctAnswer": 1,
+      "explanation": "Inventory is a current asset and shown under Current Assets in Balance Sheet."
+    }
+  ]
+}
